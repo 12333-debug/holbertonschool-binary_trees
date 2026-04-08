@@ -6,14 +6,17 @@ This project is an introduction to binary trees in C. We implement various funct
 
 ## Example
 
-        .-------(098)-------.
-   .--(012)--.         .--(402)--.
- (006)     (016)     (256)     (512)
+```
+       .-------(098)-------.
+  .--(012)--.         .--(402)--.
+(006)     (016)     (256)     (512)
+```
 
-- (098) : root node
-- (006), (016), (256), (512) : leaf nodes
-- Height of tree : 2
-- Size of tree : 7
+- **(098)** : root node
+- **(006), (016), (256), (512)** : leaf nodes
+- **Height** : 2
+- **Size** : 7
+```
 ---
 
 ## Data Structures
